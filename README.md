@@ -2,7 +2,7 @@
 
 A redesigned single-page portfolio site for **Vividflar** (Paul Nhlanhla Sikhakhane), built to replace the original Wix template with a custom layout, a real caption system, and a consistent visual identity.
 
-**[Live preview →](#)** *(add your deployed URL here once hosted)*
+**[Live preview →](#)** *http://127.0.0.1:3000/vividflar-redesign.html?vscode-livepreview=true*
 
 ---
 
