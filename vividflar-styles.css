@@ -467,3 +467,13 @@
     outline:2px solid var(--coral);
     outline-offset:3px;
   }
+  /* Desktop / Base Styles Go Here */
+ .container { width: 1200px; display: flex; }
+
+ /* Mobile Styles (Screens 768px wide or smaller) */
+ @media screen and (max-width: 768px) {
+    .container {
+        width: 100%;       /* Break out of fixed pixel restrictions */
+        flex-direction: column; /* Stack side-by-side elements vertically */
+    }
+ }
