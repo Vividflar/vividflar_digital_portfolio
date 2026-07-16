@@ -1,6 +1,6 @@
 # Vividflar — Illustration Portfolio
 
-A redesigned single-page portfolio site for **Vividflar** (Paul Nhlanhlasikhak), built to replace the original Wix template with a custom layout, a real caption system, and a consistent visual identity.
+A redesigned single-page portfolio site for **Vividflar** (Paul Nhlanhla Sikhakhane), built to replace the original Wix template with a custom layout, a real caption system, and a consistent visual identity.
 
 **[Live preview →](#)** *(add your deployed URL here once hosted)*
 
@@ -81,7 +81,7 @@ To adjust the palette or type scale, edit the CSS custom properties at the top o
 
 ## Credits
 
-- Illustration work by **Vividflar** (Paul Nhlanhlasikhak)
+- Illustration work by **Vividflar** (Paul Nhlanhla Sikhakhane)
 - Fonts: [Fraunces](https://fonts.google.com/specimen/Fraunces), [Inter](https://fonts.google.com/specimen/Inter), [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) via Google Fonts
 
 ## License
